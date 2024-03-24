@@ -14,7 +14,7 @@ Olá, eu sou o Bruno Reis.
 - Git 🌱
 
 📧 Entre em contato pelo email Brunoreisgeo@gmail.com
-- 👯 Contate-me no email Brunoreisgeo@gmail.com 
+
 
  <div>
   <a href="https://github.com/Brunojrv">
