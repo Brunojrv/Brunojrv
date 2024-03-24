@@ -1,7 +1,8 @@
 Olá, eu sou o Bruno Reis.
 
-- 🔭 Hoje trabalho como Desenvolverdor .NET
--✨ Minhas habilidades:
+🔭 Hoje trabalho como Desenvolvedor .NET 
+
+✨ Minhas habilidades:
 - Criação de APIs REST e SOAP 🛠️
 - Refatoração/Performance 🚀
 - Manipulação de banco de dados (SQL, MongoDB, Elasticsearch) 📊
