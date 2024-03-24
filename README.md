@@ -1,7 +1,18 @@
 Olá, eu sou o Bruno Reis.
 
-- 🔭 Hoje trabalho como Analista de suporte Jr
-- 🌱 Estudando (Javascript, Node, Mongodb, SQL, React, Bootstrap)
+- 🔭 Hoje trabalho como Desenvolverdor .NET
+-✨ Minhas habilidades:
+- Criação de APIs REST e SOAP 🛠️
+- Refatoração/Performance 🚀
+- Manipulação de banco de dados (SQL, MongoDB, Elasticsearch) 📊
+- Conhecimentos em SOLID 🧱
+- Arquitetura de Software 🏛️
+- Mensageria com RabbitMQ 🐰
+- Front-end (JavaScript/Vue.js) 🖥️
+- Azure ☁️
+- Git 🌱
+
+📧 Entre em contato pelo email Brunoreisgeo@gmail.com
 - 👯 Contate-me no email Brunoreisgeo@gmail.com 
 
  <div>
